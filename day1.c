@@ -2,8 +2,6 @@
 void main()
 {
     int i;
-
-
     int arr[5],n,count=0;
     printf("enter the numbers\n");
     for(i=0;i<5;i++)
